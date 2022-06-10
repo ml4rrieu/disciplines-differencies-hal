@@ -1,0 +1,14 @@
+
+/data/udice
+/data/match_domains.json
+/data/group_publishers.json
+/data/wos
+
+/misc
+CITATION.cff
+code/z memo hal requetes.txt
+code/z_explore_data.py
+data/dump_\[2018 TO 2021\].csv
+data/enriched_data_\[2018 TO 2021\].csv
+data/journalcsv__doaj_20220429_0736_utf8.csv
+data/scopus-ext_list_March_2022.csv
