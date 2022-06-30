@@ -1,21 +1,17 @@
 
+# Différences disciplinaires en contexte de Science ouverte. Etude avec les publications de l'archive ouverte HAL
 
-# Différences disciplinaires en contexte de Science ouverte. Etude avec l'archive ouverte HAL
-
-`chantier`
-
-> Larrieu, M., Schöpfel, J. 2022 (in review) Différences disciplinaires en contexte de Science ouverte. Etude avec l'archive ouverte HAL, _8e Conférence du Document numérique et Société_. Liège, Bruxelles.
+`2022-06 en chantier`
 
 
-<!--
+* Article
 
-Discussion
+> Larrieu M., Schöpfel J., 2022 (in review) Différences disciplinaires en contexte de Science ouverte. Etude avec les publications de l'archive ouverte HAL, _8e Conférence du Document numérique et Société_. Liège, Belgique.
 
-* is there less diversity in Medical, Biology and Chemistry because of the evaluation system ? (we know that SIGAPS has an impact on publisher diversity)
+* Présentation 
 
-* correlation between oligopoly dependancy and diversity : is it also a consequence
+2022-06-23, [8e Conférence du Document numérique et Société](https://docsoc2022.sciencesconf.org/), Liège, Belgique : [speakerdeck.com/mlarrieu](https://speakerdeck.com/mlarrieu/differences-disciplinaires-en-contexte-de-science-ouverte)
 
--->
 
 
 <!--
