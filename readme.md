@@ -7,7 +7,7 @@
 <p align="center">
 <i>Dépendance des disciplines à l’oligopole. Editeurs de l’oligopole : Elsevier, Springer
 Nature, Wiley, American Physical Society, Taylor & Francis et Sage Publications. Editeurs
-commerciaux en accès ouvert Frontiers, MDPI, Hindawi, BMC et IOP Publishing_
+commerciaux en accès ouvert Frontiers, MDPI, Hindawi, BMC et IOP Publishing
 </i>
 </p>
 
