@@ -9,7 +9,7 @@
 
 * Article
 
-> Larrieu, M., & Schöpfel, J. (2022). Différences disciplinaires en contexte de Science ouverte. Étude avec les publications de l’archive ouverte HAL. In Document Numérique et Société: Communication scientifique et science ouverte: opportunités, tensions et paradoxes. https://hal.archives-ouvertes.fr/hal-03760316/
+Larrieu, M., & Schöpfel, J. (2022). Différences disciplinaires en contexte de Science ouverte. Étude avec les publications de l’archive ouverte HAL. In Document Numérique et Société: Communication scientifique et science ouverte: opportunités, tensions et paradoxes. https://hal.archives-ouvertes.fr/hal-03760316/
 
 <br />
 <br />
