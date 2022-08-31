@@ -3,13 +3,21 @@
 
 Étude réalisée en 2022 avec Joachim Schöpfel, à partir des publications présentes dans HAL, visant à éclairer les différences entre disciplines scientifiques. Les discplines sont analysées selon les moyens de publication (type et langue), la porosité avec l'oligopole de l'édition scientifique et l'acculturation à l'archive ouverte HAL. Les résultats montrent deux groupes de trois disciplines s’inscrivant en contraste. Les sciences humaines, sociales et les mathématiques possèdent une forte diversité typologique, une forte autonomie oligopolistique et une faible visibilité dans WoS/Scopus. À l’inverse, la biologie, la chimie et la médecine possèdent une faible diversité typologique, une forte dépendance à l’oligopole et une très bonne visibilité dans WoS/Scopus.
 
+< br />
+< br />
+
+
 * Article
 
-> Larrieu M., Schöpfel J., 2022 (in review) Différences disciplinaires en contexte de Science ouverte. Etude avec les publications de l'archive ouverte HAL, _8e Conférence du Document numérique et Société_. Liège, Belgique. https://hal.archives-ouvertes.fr/hal-03760316/
+> Larrieu, M., & Schöpfel, J. (2022). Différences disciplinaires en contexte de Science ouverte. Étude avec les publications de l’archive ouverte HAL. In Document Numérique et Société: Communication scientifique et science ouverte: opportunités, tensions et paradoxes. https://hal.archives-ouvertes.fr/hal-03760316/
+
+< br />
+< br />
+
 
 * Présentation 
 
-2022-06-23, [8e Conférence du Document numérique et Société](https://docsoc2022.sciencesconf.org/), Liège, Belgique : [speakerdeck.com/mlarrieu](https://speakerdeck.com/mlarrieu/differences-disciplinaires-en-contexte-de-science-ouverte)
+[speakerdeck.com/mlarrieu/differences-disciplinaires-en-contexte-de-science-ouverte](https://speakerdeck.com/mlarrieu/differences-disciplinaires-en-contexte-de-science-ouverte), 2022-06-23, [8e Conférence du Document numérique et Société](https://docsoc2022.sciencesconf.org/), Liège, Belgique.
 
 
 
