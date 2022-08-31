@@ -27,7 +27,18 @@ Larrieu, M., & Schöpfel, J. (2022). Différences disciplinaires en contexte de 
 
 * Présentation 
 
-[speakerdeck.com/mlarrieu/differences-disciplinaires-en-contexte-de-science-ouverte](https://speakerdeck.com/mlarrieu/differences-disciplinaires-en-contexte-de-science-ouverte), 2022-06-23, [8e Conférence du Document numérique et Société](https://docsoc2022.sciencesconf.org/), Liège, Belgique.
+[speakerdeck.com/mlarrieu/differences-disciplinaires-en-contexte-de-science-ouverte](https://speakerdeck.com/mlarrieu/differences-disciplinaires-en-contexte-de-science-ouverte)
+<br />
+<br />
+
+
+* Méta
+
+2022-06-23
+
+[8e Conférence du Document numérique et Société](https://docsoc2022.sciencesconf.org/) 
+
+Liège, Belgique
 
 
 
